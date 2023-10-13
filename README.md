@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Prithwi G Hegde
 
  A Passionate Developer From India.
+
+ ---
+
+ [![](https://visitcount.itsvg.in/api?id=Prithwi32&icon=4&color=6)](https://visitcount.itsvg.in)
  
 - 🌱 I’m currently learning full stack web development and DSA
 - 🔭 I’m currently working on projects
@@ -44,6 +48,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=Prithwi32&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prithwi32&icon=4&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
