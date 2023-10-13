@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on projects
 - 💬 Ask me about web development, C programming
 
+[![An image of @prithwi32's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prithwi32)](https://holopin.io/@prithwi32)
+
 <!--
 **Prithwi32/Prithwi32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
