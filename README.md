@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Prithwi G Hegde
+
+ A Passionate Developer From India.
+ 
+- 🌱 I’m currently learning full stack web development and DSA
+- 🔭 I’m currently working on projects
+- 💬 Ask me about web development, C programming
 
 <!--
 **Prithwi32/Prithwi32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
