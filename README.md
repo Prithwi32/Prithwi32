@@ -7,7 +7,7 @@
  ---
  
 - 🌱 I’m currently learning full stack web development and DSA
-- 🔭 I’m currently working on projects
+- 🔭 I’m currently working on open source contribution.
 - 💬 Ask me about web development, C programming
 
  ---
