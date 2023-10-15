@@ -2,7 +2,7 @@
 
    A Passionate Developer From India.
                                                
- [![](https://visitcount.itsvg.in/api?id=Prithwi32&icon=4&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Prithwi32&icon=4&color=6)](https://visitcount.itsvg.in)
  
  ---
  
