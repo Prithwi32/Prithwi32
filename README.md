@@ -13,7 +13,6 @@
  ---
 
 [![An image of @prithwi32's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prithwi32)](https://holopin.io/@prithwi32)
-
  ---
  
 ## 🌐 Socials:
