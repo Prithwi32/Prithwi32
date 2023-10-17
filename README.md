@@ -3,12 +3,14 @@
    A Passionate Developer From India.
                                                
 [![](https://visitcount.itsvg.in/api?id=Prithwi32&icon=4&color=6)](https://visitcount.itsvg.in)
+
  
  ---
  
 - 🌱 I’m currently learning full stack web development and DSA
 - 🔭 I’m currently working on open source contribution.
 - 💬 Ask me about web development, C programming
+- My hobbies are drawing👩‍🎨, singing🎤 
 
  ---
 
