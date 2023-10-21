@@ -3,9 +3,6 @@
    A Passionate Developer From India.
 
  ---
-
- 
- ---
  
 - 🌱 I’m currently learning full stack web development and DSA
 - 🔭 I’m currently working on open source contribution.
@@ -28,7 +25,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prithwi32&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithwi32&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Prithwi32&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -48,6 +44,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![](https://github-readme-stats.vercel.app/api?username=Prithwi32&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 
 ### 🔝 Top Contributed Repo
