@@ -1,11 +1,11 @@
-   ### Hi there 👋, I'm Prithwi G Hegde
+   ### Hey there 👋, I'm Prithwi G Hegde
 
    A Passionate Developer From India.
 
  ---
  
 - 🌱 I’m currently learning full stack web development and DSA
-- 🔭 I’m currently working on open source contribution.
+- 🔭 I’m currently working on improving my skills.
 - 💬 Ask me about web development, C programming
 - My hobbies are drawing👩‍🎨, singing🎤 
 
