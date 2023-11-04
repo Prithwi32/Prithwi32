@@ -5,7 +5,7 @@
  ---
  
 - 🌱 I’m currently learning full stack web development and DSA
-- 🔭 I’m currently working on improving my skills.
+- 🔭 I’m currently working on projects of development.
 - 💬 Ask me about web development, C programming
 - My hobbies are drawing👩‍🎨, singing🎤 
 
