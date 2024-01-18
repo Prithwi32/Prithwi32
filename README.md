@@ -4,7 +4,7 @@
 
  ---
  
-- 🌱 I’m currently learning full stack web development and DSA
+- 🌱 I’m currently learning full stack web development and DSA and doing open source contribution.
 - 🔭 I became mentee in Codess.Cafe, looking forward for summer internships.
 - 💬 Ask me about web development, C programming
 - My hobbies are drawing👩‍🎨, singing🎤 
